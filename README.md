@@ -4,7 +4,7 @@ The marketing agency Horiseon has asked to have the code for their site refactor
 
 # Screenshot
 
-Open ![Horiseon site screenshot](/Develop/Horiseon_Screenshot.png) to view screenshot of final result.
+Open ![Horiseon site screenshot](Horiseon_Screenshot.png) to view screenshot of final result.
 
 # Link
 
